@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-hero",
+      "description": "Riyazi düsturlarla dolu bir lövhənin abstrakt təsviri.",
+      "imageUrl": "https://picsum.photos/seed/mathformulas/1200/800",
+      "imageHint": "math formulas"
+    }
+  ]
+}
